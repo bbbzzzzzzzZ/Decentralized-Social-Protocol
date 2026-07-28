@@ -27,22 +27,22 @@ In this protocol, knowledge is broken down into autonomous, unbundled **Capabili
 
 To balance personal freedom with public safety, learning and qualification are split into two distinct tracks:
 
-|FIELD1|+----------------------------------+     |FIELD3                     |FIELD4       |FIELD5  |FIELD6        |FIELD7|FIELD8|FIELD9 |FIELD10        |FIELD11|FIELD12|FIELD13     |FIELD14|
-|------|-----------------------------------------|---------------------------|-------------|--------|--------------|------|------|-------|---------------|-------|-------|------------|-------|
-|      |&#124;                                        |Capability                 |Development  |System  |&#124;             |      |      |       |               |       |       |            |       |
-|      |+----------------------------------+     |                           |             |        |              |      |      |       |               |       |       |            |       |
-|      |&#124;                                        |                           |             |        |              |      |      |       |               |       |       |            |       |
-|      |+-------------------+-------------------+|                           |             |        |              |      |      |       |               |       |       |            |       |
-|      |&#124;                                        |&#124;                          |             |        |              |      |      |       |               |       |       |            |       |
-|      |v                                        |v                          |             |        |              |      |      |       |               |       |       |            |       |
-|      |+-------------------------+              |+-------------------------+|             |        |              |      |      |       |               |       |       |            |       |
-|      |&#124;                                        |Track                      |A:           |Interest|&             |&#124;     |&#124;     |Track  |B:             |Public |&#124;      |            |       |
-|      |&#124;                                        |Self-Expression            |&#124;            |&#124;       |Responsibility|&#124;     |      |       |               |       |       |            |       |
-|      |+-------------------------+              |+-------------------------+|             |        |              |      |      |       |               |       |       |            |       |
-|      |&#124;                                        |•                          |Open         |&       |Unrestricted  |&#124;     |&#124;     |•      |Peer-Reviewed  |&#124;      |       |            |       |
-|      |&#124;                                        |•                          |Self-Assessed|Quality |&#124;             |&#124;     |•     |On-Site|Apprenticeship&#124;|       |       |            |       |
-|      |&#124;                                        |•                          |Zero         |Barrier |to            |Entry |&#124;     |&#124;      |•              |Safety |&      |Standardized|&#124;      |
-|      |+-------------------------+              |+-------------------------+|             |        |              |      |      |       |               |       |       |            |       |
++----------------------------------+
+                  |    Capability Development System |
+                  +----------------------------------+
+                                   |
+               +-------------------+-------------------+
+               |                                       |
+               v                                       v
+  +-------------------------+             +-------------------------+
+  |  Track A: Interest &    |             |  Track B: Public        |
+  |  Self-Expression        |             |  Responsibility         |
+  +-------------------------+             +-------------------------+
+  | • Open & Unrestricted   |             | • Peer-Reviewed         |
+  | • Self-Assessed Quality |             | • On-Site Apprenticeship|
+  | • Zero Barrier to Entry |             | • Safety & Standardized |
+  +-------------------------+             +-------------------------+
+
 
 
 ### 3.1 Track A: Interest & Self-Expression
