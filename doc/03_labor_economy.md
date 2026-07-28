@@ -27,41 +27,17 @@ In this protocol, society replaces the concept of fixed jobs with a **Modular Ca
 To eliminate forced exploitation while maintaining societal vitality, the economy operates on a strict **Dual-Tier Model**:
 
 +-----------------------------------------------------------------------+
-
-
 |                       EXPERIENCE & DISCOVERY RIGHTS                   |
-
-
-|  • Advanced research priority & computing allocation                 |
-
-
+|  • Advanced research priority & computing allocation                  |
 |  • High-tier material experience & special facility usage             |
-
-
 |  • Earned via Non-Transferable Public Responsibility Points           |
-
-
 +-----------------------------------------------------------------------+
-
-
 ========================= UNPASSABLE ISOLATION WALL =========================
-
-
 +-----------------------------------------------------------------------+
-
-
 |                      UNIVERSAL SURVIVAL BASELINE                      |
-
-
 |  • Free, unconditional access to basic food, housing, energy, care    |
-
-
 |  • Natural resources managed as shared inheritance                    |
-
-
 |  • Decoupled from labor contribution or market exchange value          |
-
-
 +-----------------------------------------------------------------------+
 
 ### 3.1 Tier 1: Universal Survival Baseline
