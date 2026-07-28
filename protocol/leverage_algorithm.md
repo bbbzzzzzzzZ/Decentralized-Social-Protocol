@@ -1,7 +1,7 @@
 
 
 
-# 📄 leverage_algorithm.md: Dynamic Time Leverage & Decentralized Scheduling Algorithm
+# 📄 protocol/leverage_algorithm.md: Dynamic Time Leverage & Decentralized Scheduling Algorithm
 
 **Document ID:** `protocol/leverage_algorithm.md`
 
