@@ -36,5 +36,3 @@
 
 ---
 
-**Summary:** 
-By redefining existential equality, Chapter 01 provides the legal and moral foundation for **Time Sovereignty (02)** and the **Education System (03)**. Education is thus transformed into a tool for "self-discovery" rather than "indoctrination," and labor becomes a means of "fulfilling one's need for community life" rather than "selling one's soul".
