@@ -1,6 +1,5 @@
-以下为您将 `leverage_algorithm.md` 完整翻译为专业的英文版本，可直接用于白皮书或国际化开源协议的编撰：
 
----
+
 
 # 📄 leverage_algorithm.md: Dynamic Time Leverage & Decentralized Scheduling Algorithm
 
