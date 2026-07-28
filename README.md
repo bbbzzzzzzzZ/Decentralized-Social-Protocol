@@ -1,9 +1,12 @@
 
----
-
 # Decentralized Social Protocol (DSP) | 去中心化社会协议
 
-[English](#english) | [中文版](#中文版)
+[English](README.md) | [中文版](README_CN.md)
+
+> 📺 **Watch Protocol Demo & Architecture Overview (10 min):**  
+> 🔗 [https://youtu.be/RZTpz_lT-gQ](https://youtu.be/RZTpz_lT-gQ)
+> 
+> 🎬 **去中心化社会协议 10 分钟核心架构与算法原型演示视频已上线！**
 
 ---
 
