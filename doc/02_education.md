@@ -44,7 +44,6 @@ To balance personal freedom with public safety, learning and qualification are s
   +-------------------------+             +-------------------------+
 
 
-
 ### 3.1 Track A: Interest & Self-Expression
 * **Scope**: Creative arts, humanities, hobbies, exploratory crafts, personal research.
 * **Validation**: Driven entirely by personal satisfaction and community resonance. No standardized testing, centralized grading, or mandatory quality control.
