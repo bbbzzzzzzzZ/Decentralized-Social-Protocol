@@ -1,5 +1,5 @@
 
-# 📄 safety_baselines.md: System Safety Baselines and Anti-Corruption Mechanisms
+# 📄 protocol/safety_baselines.md: System Safety Baselines and Anti-Corruption Mechanisms
 
 **Document ID:** `protocol/safety_baselines.md`
 
