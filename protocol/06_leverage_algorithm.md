@@ -3,7 +3,7 @@
 
 # 📄 leverage_algorithm.md: Dynamic Time Leverage & Decentralized Scheduling Algorithm
 
-**Document ID:** `05_leverage_algorithm.md`
+**Document ID:** `leverage_algorithm.md`
 
 **Core Objective:** To completely replace traditional bureaucratic administrative scheduling and capitalist wage labor with decentralized data feedback and dynamic pricing mechanisms, ensuring the continuous operation of society while maximizing individual time sovereignty.
 
