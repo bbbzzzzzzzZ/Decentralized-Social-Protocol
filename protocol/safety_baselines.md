@@ -1,7 +1,7 @@
 
 # 📄 safety_baselines.md: System Safety Baselines and Anti-Corruption Mechanisms
 
-**Document ID:** `07_safety_baselines.md`
+**Document ID:** `protocol/safety_baselines.md`
 
 **Core Objective:** Establish structural safeguards, cryptographic boundaries, and algorithmic circuit breakers to prevent the decentralized coordination protocol from degenerating into digital authoritarianism, bureaucratic overreach, or new forms of class stratification.
 
