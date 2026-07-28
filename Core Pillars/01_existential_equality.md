@@ -1,4 +1,4 @@
-# 01_philosophy.md — Philosophical Foundations
+# 01_existential_equality.md — Philosophical Foundations
 
 ## 1. Executive Summary
 Traditional institutional design—whether political, social, or economic—invariably begins with the question: *"Under a given social framework, how do we efficiently organize production and maintain order?"* As a result, human beings are coerced into fitting predetermined roles, turning survival into an endless exercise in compliance.
