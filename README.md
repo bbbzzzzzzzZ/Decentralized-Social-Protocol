@@ -29,6 +29,7 @@ Instead of relying on administrative coercion, mandatory assignment, or wage exp
 This project is fully open-source. Anyone is free to reference, modify, fork, or build upon this architecture without restriction.
 
 
+```text
 Decentralized-Social-Protocol/
 ├── README.md                 # 英文主页（总揽）
 ├── README_CN.md              # 中文主页（总揽）
@@ -52,3 +53,4 @@ Decentralized-Social-Protocol/
 └── 📁 examples/              # 4. 场景演练与案例（帮助读者快速理解）
     ├── scenario_medical.md   # 案例：当医疗人员出现缺口时，系统如何自动平抑
     └── scenario_education.md # 案例：一个 35 岁的人如何通过能力模块重新跨界学习
+```
