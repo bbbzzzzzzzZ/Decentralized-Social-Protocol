@@ -26,6 +26,8 @@ In this protocol, society replaces the concept of fixed jobs with a **Modular Ca
 
 To eliminate forced exploitation while maintaining societal vitality, the economy operates on a strict **Dual-Tier Model**:
 
+
+```text
 +-----------------------------------------------------------------------+
 |                       EXPERIENCE & DISCOVERY RIGHTS                   |
 |  • Advanced research priority & computing allocation                  |
@@ -39,6 +41,8 @@ To eliminate forced exploitation while maintaining societal vitality, the econom
 |  • Natural resources managed as shared inheritance                    |
 |  • Decoupled from labor contribution or market exchange value          |
 +-----------------------------------------------------------------------+
+
+```
 
 ### 3.1 Tier 1: Universal Survival Baseline
 * **Unconditional Access**: Every individual receives a guaranteed baseline of physical survival (nutrition, housing, basic medical care, clean energy, and education) as a birthright.
