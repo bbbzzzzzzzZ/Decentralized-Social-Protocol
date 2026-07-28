@@ -27,7 +27,9 @@ In this protocol, knowledge is broken down into autonomous, unbundled **Capabili
 
 To balance personal freedom with public safety, learning and qualification are split into two distinct tracks:
 
-+----------------------------------+
+ ```text
+
+                  +----------------------------------+
                   |    Capability Development System |
                   +----------------------------------+
                                    |
@@ -42,6 +44,8 @@ To balance personal freedom with public safety, learning and qualification are s
   | • Self-Assessed Quality |             | • On-Site Apprenticeship|
   | • Zero Barrier to Entry |             | • Safety & Standardized |
   +-------------------------+             +-------------------------+
+```
+
 
 
 ### 3.1 Track A: Interest & Self-Expression
