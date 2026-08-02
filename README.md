@@ -4,7 +4,7 @@
 [English](README.md) | [中文版](README_CN.md)
 
 > 📺 **Watch Protocol Demo & Architecture Overview (10 min):**  
-> 🔗 [https://youtu.be/RZTpz_lT-gQ](https://youtu.be/RZTpz_lT-gQ)
+> 🔗 [YOUTOBE](https://youtube.com/playlist?list=PLT4j1ynuJoqY&si=e0oXb0KIcXh0UuNk)
 > 
 > 🎬 **去中心化社会协议 10 分钟核心架构与算法原型演示视频已上线！**
 
