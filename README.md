@@ -1,7 +1,7 @@
 
 # Decentralized Social Protocol (DSP) | 去中心化社会协议
 
-##**Executive Summary**
+**Executive Summary**
 
 Modern governance models face a fundamental dilemma: traditional market mechanisms fail to protect public goods (leading to the tragedy of the commons), while centralized state planning relies on bloated administrative bureaucracies that restrict individual freedom.
 
