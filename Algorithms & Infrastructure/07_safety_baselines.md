@@ -45,7 +45,7 @@
 **Structural Defenses:**
 *   **Objective Activation Triggers:** Emergency modes require verified, objective statistical thresholds (e.g., systemic medical capacity breach).
 *   **Narrow Functional Scope:** Mobilization can only invoke capabilities relevant to the specific crisis and cannot suspend broader civil liberties.
-*   **Mandatory Sunset Clauses:** Every emergency protocol has a hardcoded maximum lifespan. Unless explicitly re-voted by decentralized consensus, the system automatically executes a hard reset to standard peacetime parameters.
+*   **Mandatory Sunset Clauses:** As a core mechanism for preventing corruption and the expansion of power. Every emergency protocol has a hardcoded maximum lifespan. Unless explicitly re-voted by decentralized consensus, the system automatically executes a hard reset to standard peacetime parameters.
 
 ---
 
