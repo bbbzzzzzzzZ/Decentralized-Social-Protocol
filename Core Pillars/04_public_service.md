@@ -55,6 +55,7 @@ To prevent the revival of class stratification, **Responsibility Credits (\\(E_q
 *   **Experience Rights:** Credits unlock high-tier experiential assets:
     1.  **Material Experience:** High-quality living spaces or special daily supplies.
     2.  **Research Priority:** Top-tier lab access, large computing power, and precision equipment.
+*   **Prepaid Responsibility Mechanism:** Responsibility periods require advance deposit or prepayment; incurring debt or overdrafts is strictly prohibited.
 
 ---
 
@@ -63,6 +64,8 @@ To prevent the revival of class stratification, **Responsibility Credits (\\(E_q
 *   **Absolute Right of Refusal:** Task matching is an invitation, never a summons. Declining carries zero penalty to basic survival entitlements.
 *   **Skill Decay:** High-stakes skill holders (e.g., surgeons) must participate in simulator re-certifications. Failure results in suspended "high-leverage" status until re-verified.
 *   **Anti-Gatekeeping:** Peer evaluations are randomized and anonymous to prevent cliquish monopolies in specialized fields.
+*   **Capability Half-life & Peer Review:** Qualification is automatically suspended after six months of inactivity; reinstatement requires anonymous peer or colleague evaluation.
+*   **Two-Tier Team Scheduling:** Teams serve as the scheduling unit, combined with individual flexibility in assignment and automatic backup coverage logic.
 
 ---
 
