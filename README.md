@@ -1,7 +1,8 @@
 
 # Decentralized Social Protocol (DSP) | 去中心化社会协议
 
-##Executive Summary
+##**Executive Summary**
+
 Modern governance models face a fundamental dilemma: traditional market mechanisms fail to protect public goods (leading to the tragedy of the commons), while centralized state planning relies on bloated administrative bureaucracies that restrict individual freedom.
 
 This paper proposes a Decentralized Public Goods & Capability Dispatch Protocol—a governance and labor framework designed to separate societal operations into a Public Responsibility Layer and a Personal Value Layer. By leveraging algorithmic capability pooling, randomized task dispatch, prepaid duty systems, and automated sunset provisions, the protocol guarantees essential societal maintenance with minimal mandatory labor (~4–6 hours per week per individual) while returning maximum sovereignty and discretionary time to the individual.
